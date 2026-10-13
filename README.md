@@ -214,7 +214,7 @@ Proof, independent proof of what happened on a job, is not available yet. Nothin
 
 ## Documentation
 
-[Python SDK](sdk/README.md) · [Security](SECURITY.md) · [Contributing](CONTRIBUTING.md)
+[Python SDK](sdk/README.md) · [Security](SECURITY.md) · [Examples](examples/README.md) · [Changelog](CHANGELOG.md) · [Contributing](CONTRIBUTING.md)
 
 ## Security
 
