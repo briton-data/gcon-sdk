@@ -44,7 +44,7 @@ You need an account and an API key. You can work from the website or from a term
 
 ### From the website
 
-1. Choose **Get Started** at [gcon.network](https://gcon.network) and create your account.
+1. Choose **Get Started** on website and create your account.
 2. Open **Submit Job**. Enter a job name and the command to run. Optionally set minimum GPU memory, minimum CPU cores, or the number of verification workers.
 3. Choose **Submit job**, then open the job to follow its status.
 4. Open **Evidence** to read the receipt and the checks for each successful job.
