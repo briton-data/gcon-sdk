@@ -222,7 +222,7 @@ Found a vulnerability? Follow [SECURITY.md](SECURITY.md) and do not open a publi
 
 ## Contact
 
-contact@gcon.network
+contactgcon@gmail.com
 
 ## License
 
